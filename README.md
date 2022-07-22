@@ -1,0 +1,2 @@
+# ModelamientoPractico
+Sofka U
